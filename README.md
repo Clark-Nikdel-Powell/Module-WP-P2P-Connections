@@ -22,4 +22,4 @@ $ClientPostConnections = new ClientPostConnections( $settings );
 
 ### Parameters
 
-`$settings` (required): P2P connection settings. See https://github.com/scribu/wp-posts-to-posts/wiki/p2p_register_connection_type.
+`$settings` (required): Array of P2P connection settings. See https://github.com/scribu/wp-posts-to-posts/wiki/p2p_register_connection_type.
