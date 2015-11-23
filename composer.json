@@ -1,0 +1,18 @@
+{
+    "name": "cnp/wp-p2p-connections",
+    "description": "Registers Posts-to-Posts connection. Requires Posts 2 Posts plugin.",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/Clark-Nikdel-Powell/Module-WP-P2P-Connections",
+    "authors": [
+        {
+            "name": "Glenn Weler",
+            "email": "glenn@clarknikdelpowell.com",
+            "homepage": "https://clarknikdelpowell.com/agency/people/glenn",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
